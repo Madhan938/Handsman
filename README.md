@@ -8,4 +8,6 @@ Loyalty rewards
 Marketing campaigns
 Automated email notifications
 This project combines fashion and technology to create a seamless shopping and backend management experience.
+
+
 link for the demo: https://drive.google.com/file/d/1h-YLbnZyCPGQqruZBmcit7hwW-rsg55R/view?usp=drivesdk
